@@ -1,5 +1,3 @@
-import { defineSource } from '@nuxtjs/cloudflare';
-import { Session } from 'node-fetch-session';
 
 // 全局会话管理
 const session = new Session({
